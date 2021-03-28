@@ -1,16 +1,14 @@
 
-### Hi there 👋, Santhosh Kumar
-#### Programmer
+### Hi humans 👋, I'm Santhosh Kumar
+####Basically an Engineer & Programmer
 
-
-I'm Santhosh from India and currently working some mini-projects in python basically a learner and love to learn all kinds of programming language.
-
-Skills: Python/C++ /  / HTML / CSS
+Skills: Python / C++ / HTML /  / 
 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Any thing related programing language and also interested in work with projects. 
 - 📫 How to reach me: asanthoshkumar01@gmail.com 
-- ⚡ Fun fact: You can't stop loving me, 69% sure...<3 
+- ⚡ Fun fact: You can't stop loving me, 69% sure <3...
+
 
 
 
