@@ -2,7 +2,7 @@
 ### Hi humans 👋, I'm Santhosh Kumar
 ####Basically an Engineer & Programmer
 
-Skills: Python / C++ / HTML /  / 
+Skills: Python / C++ / HTML / Php/ Sql
 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Any thing related programing language and also interested in work with projects. 
