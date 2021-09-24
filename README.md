@@ -11,13 +11,13 @@ Skills: Python / C++ / HTML / Php/ Sql
 
 
 
+![a58df3474587baa46eb81415faa143d4](https://user-images.githubusercontent.com/58947968/134616698-1f3d6247-343f-493a-a6e3-0f9b6b4ceac4.gif)
 
 
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Santhoshstark06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_im_santos_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/asanthoshkumar01@gmail.com)  
 
 
 
