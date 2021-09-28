@@ -2,7 +2,10 @@
 ### Hi humans 👋, I'm Santhosh Kumar
 ####Basically an Engineer & Programmer
 
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
+<br/>
 
 Skills: Python / C++ / HTML / Php/ Sql
 
@@ -30,8 +33,9 @@ Skills: Python / C++ / HTML / Php/ Sql
 <br/>
 <br/>
 
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://github.com/Santhoshstark06/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Santhoshstark06/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Santhoshstark06/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Santhoshstark06/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/Santhoshstark06/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/Santhoshstark06/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 
 
 <br/>
