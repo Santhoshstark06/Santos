@@ -46,11 +46,11 @@ When the Code works
 ![0_7Q3yvSIv_t0ioJ-Z](https://user-images.githubusercontent.com/58947968/134637382-2cd242cf-6ced-4f73-b8d5-5ce9c7b987d5.gif)
 
 
+### Internet went crazy ,when i successfully completed a project without copying or refering google.🤯😵🤐
 
 
-When the error throws in a loop
 
-![coding-freak](https://user-images.githubusercontent.com/58947968/134637427-6edb915e-8058-40db-9f2a-8dfa97d988f4.gif)
+![gjv5CaH](https://user-images.githubusercontent.com/58947968/135030009-49b8a957-ab9a-492a-8082-6481a1c63ce1.gif)
 
 
 
