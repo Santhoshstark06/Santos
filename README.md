@@ -2,7 +2,8 @@
 ### Hi humans 👋, I'm Santhosh Kumar
 ####Basically an Engineer & Programmer
 
-Skills: Python / C++ / HTML / Php/ Sql
+Skills: Python / C++ / HTML / Php/ Sql                                                  ![0_7Q3yvSIv_t0ioJ-Z](https://user-images.githubusercontent.com/58947968/134637382-                                                                                                2cd242cf-6ced-4f73-b8d5-5ce9c7b987d5.gif)
+
 
 - 🌱 I’m currently learning Machine Learning . 
 - 💬 My interests are Everyfkthing in the present field of technology. I have knowledge about every domain and love to work with it and also interested in projects to colabrate. 
