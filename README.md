@@ -31,6 +31,8 @@ Skills: Python / C++ / HTML / Php/ Sql
 ### My Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshstark06)](https://github.com/Santhoshstark06/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshstark06&hide=Python,html,Php)](https://github.com/Santhoshstark06/github-readme-stats)
+
 
 
 
