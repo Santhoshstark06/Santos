@@ -7,8 +7,6 @@
 
 
 
-Skills: Python / C++ / HTML / Php/ Sql
-
 
 - 🌱 I’m currently learning Machine Learning . 
 - 💬 My interests are Everyfkthing in the present field of technology. I have knowledge about every domain and love to work with it and also interested in projects to colabrate. 
