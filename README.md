@@ -39,7 +39,9 @@
 
 ### Database:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
+
+
 
 <br/>
 <br/>
@@ -65,6 +67,9 @@ When the Code works
 
 
 ![gjv5CaH](https://user-images.githubusercontent.com/58947968/135030009-49b8a957-ab9a-492a-8082-6481a1c63ce1.gif)
+
+
+<br/>
 
 
 
