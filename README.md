@@ -14,14 +14,15 @@
 <br/>
 <br/>
  
-
+<p align="left">
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 💻💻💡 Basically an Engineer & Programmer.
-- 🌱 I’m in Junior year pursuing  Computer Science with Ai & ML. 
-- 💬💻 My interests are Everyfkthing in the present field of technology. I have knowledge in every domain and love to work with it ,also interested in projects to colabrate. 
-- 📫 How to reach me: Discord ID - Mr DOOMSTER#5334
-- ⚡ Fun fact: You can't stop loving me, 69% sure <3...
-- I'm a Cosmophile and i love whatever you talk about the Universe.
+  <br/>
+💻💻💡 Basically an Engineer & Programmer.
+  🌱 I’m in Junior year pursuing  Computer Science with Ai & ML. 
+💬💻 My interests are Everyfkthing in the present field of technology. I have knowledge in every domain and love to work with it ,also interested in projects to colabrate. 
+ 📫 How to reach me: Discord ID - Mr DOOMSTER#5334
+ ⚡ Fun fact: You can't stop loving me, 69% sure <3...
+ I'm a Cosmophile and i love whatever you talk about the Universe.
 
 ![age](https://img.shields.io/badge/age-10100-blue)
 ![focus](https://img.shields.io/badge/focus-FullstackDev-brightgreen)
