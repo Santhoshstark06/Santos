@@ -1,49 +1,60 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+ Hi humans 👋, I'm Santhosh Kumar  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-### Hi humans 👋, I'm Santhosh Kumar  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-### Basically an Engineer & Programmer
+ ### Connect with me 
+ 
+<a href="https://www.linkedin.com/in/santhosh-kumar-54918219a/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="20" height="20" style="margin-right:15px"></a>
+<a href="https://twitter.com/@Santhos45917490"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="20" height="20" style="margin-right:15px"></a>
+<a href="mailto:asanthoshkumar01@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="20" height="20"></a>
+
 <br/>
+<br/>
+ 
 
-
-
-
-
-
-- 🌱 I’m currently learning Machine Learning . 
-- 💬💻 My interests are Everyfkthing in the present field of technology. I have knowledge about every domain and love to work with it and also interested in projects to colabrate. 
-- 📫 How to reach me: asanthoshkumar01@gmail.com && Discord ID - Mr DOOMSTER#5334
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 💻💻💡 Basically an Engineer & Programmer.
+- 🌱 I’m in Junior year pursuing  Computer Science with Ai & ML. 
+- 💬💻 My interests are Everyfkthing in the present field of technology. I have knowledge in every domain and love to work with it ,also interested in projects to colabrate. 
+- 📫 How to reach me: Discord ID - Mr DOOMSTER#5334
 - ⚡ Fun fact: You can't stop loving me, 69% sure <3...
 - I'm a Cosmophile and i love whatever you talk about the Universe.
+
+![age](https://img.shields.io/badge/age-10100-blue)
+![focus](https://img.shields.io/badge/focus-FullstackDev-brightgreen)
+![living](https://img.shields.io/badge/living-Earth-3c9)
 
 <br/>
 
 
 ### Tech Stacks:
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
+
+</p> 
  
+ ### Libraries
+ 
+ <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=yellow"></a>
 
-<br/>
-<br/>
-
-### Programming Language:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-
-
-<br/>
-<br/>
-
-### Database:
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
-
-
-
-<br/>
+</br>
 <br/>
 
 
@@ -53,6 +64,35 @@
 
 
 <br/>
+<br/>
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
+
+ <br/>
+ 
+### Stats 📈
+
+<img src="https://github-readme-stats.vercel.app/api?username=Santhoshstark06&count_private=true&show_icons=true&theme=tokyonight"/>
+<br/>
+<br/>
+ <align=left>
+ 
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Santhoshstark06&theme=react-dark&hide_border=true&area=true)
+ 
+ <br/>
+ 
+ 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Santhoshstar06.Santos)
+
+<br/>
+
+<p align="center">
+
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santhoshstark06&theme=tokyonight"/>
+</p>
+
 <br/>
 
 
